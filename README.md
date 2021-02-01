@@ -37,7 +37,7 @@ Layout: Flexbox (BEM Model)
 Duration: 12 hrs - 3 days split
 
 <img src="/img/Travelo.gif">
-<img src="/img/desktop-view.jpg">
+<img src="/img/Travelo.jpg">
 
 #### Process
 
