@@ -311,7 +311,7 @@ a {
       .side-nav__item {
         flex: 1; } }
   .side-nav__item::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 0;

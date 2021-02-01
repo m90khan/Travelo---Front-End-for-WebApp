@@ -25,7 +25,7 @@
   }
 
   &__item::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 0;
@@ -70,9 +70,6 @@
     }
   }
 
-  // &__link:link:hover{
-  //   color: var(--color-primary);
-  // }
   &__icon {
     width: 1.75rem;
     // color: var(--color-grey-light-1);
